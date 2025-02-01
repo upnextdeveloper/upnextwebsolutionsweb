@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: wheat;
+}
+
+.form {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: block;
+    width: 20em;
+    height: 20em;
+}
+
+.header {
+    text-align: center;
+}
+
+.formheader {
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 1em;
+}
+
+.copyright {
+    padding-top: 2em;
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+}
